@@ -1,4 +1,4 @@
 CSS INTRODUCTION:
 
 1. Adding CSS
-2. CSS Selector
+2. CSS Selectors
