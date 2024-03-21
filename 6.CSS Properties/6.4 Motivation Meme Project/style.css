@@ -1,0 +1,20 @@
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+body{
+    background-color: black;
+}
+.poster{
+    font-family: "Libre Baskerville", Caveat;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    width:50%;
+    margin-left: 25%;
+
+}
+.posterimg{
+    border: 5px solid white;
+    width:100%;
+}
