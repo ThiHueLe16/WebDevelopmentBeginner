@@ -1,0 +1,1 @@
+This code is about using the css-display: inline, block, inline-block
